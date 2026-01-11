@@ -26,7 +26,7 @@ This project is an educational web application that:
 - **Login Page**: Secure user login with username and password
 - **Registration**: New user signup functionality
 - **Session Management**: PHP sessions to maintain user state
-- **Social Media Integration**: Links for Facebook, Google+, and LinkedIn
+- **Social Media Integration**: Placeholder links for social media platforms
 
 ### 2. College Prediction Algorithm
 The system predicts college eligibility based on:
@@ -88,8 +88,8 @@ Web-Development-Project/
 5. Open phpMyAdmin at `http://localhost/phpmyadmin`
 6. Create a database named `test_db`
 7. Import `usertable.sql` file into the `test_db` database
-8. Update the project path in `login.php` (line 55) if needed
-9. Access the application at `http://localhost/project/login.php`
+8. Update the project path in `login.php` (line 55) to match your folder name
+9. Access the application at `http://localhost/[your-folder-name]/login.php` (e.g., `http://localhost/Web-Development-Project/login.php`)
 
 ## Usage
 1. **First-time Users**: Click "Sign Up here" to create an account
